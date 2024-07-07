@@ -1,5 +1,5 @@
 ## Hey , My ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) visitor
-## I'm Hakua 🤍 ， a crazy game lovers
+## I'm Hakua 🤍 ， a crazy game lover
 
 Learning QT | SOCKET 
 
